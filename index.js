@@ -6,3 +6,4 @@ img.classList.add = 'dva';
 
 document.body.appendChild(img);
 console.log(img);
+console.log(img);
